@@ -80,3 +80,6 @@
 
 ## p27-b
 - uname -r
+
+## p28-b
+- cd command-line-challenges/challenges/bunch_of_files/ && grep -r 'You found the needle in the haystack!'

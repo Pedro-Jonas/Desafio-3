@@ -67,4 +67,4 @@
 -cd command-line-challenges/challenges/ && gcc compile_me.c  && ./a.out
 
 ## p23-a
-- 
+- cd command-line-challenges/challenges/ && ./redirect > output.txt

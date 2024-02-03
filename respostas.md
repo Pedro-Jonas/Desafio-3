@@ -8,3 +8,6 @@
 
 ## p3-b
 - cd command-line-challenges/challenges/ && ls
+
+## p4-b
+- 

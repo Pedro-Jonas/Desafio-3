@@ -152,4 +152,4 @@
 - rm supercalifragilisticexpialidocious.txt
 
 ## p50-a
-- 
+- touch {a..c}-{1..3}.txt

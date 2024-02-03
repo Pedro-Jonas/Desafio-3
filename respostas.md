@@ -127,4 +127,4 @@
 (Executando os dois comando vemos que o segundo foi mais rápido!)
 
 ## p42-a
-- 
+- cd command-line-challenges/challenges/ && cut -d , -f 4 people.csv | sort | uniq -c | grep Josiah

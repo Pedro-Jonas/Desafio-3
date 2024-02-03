@@ -104,3 +104,6 @@
 
 ## p35-i
 - cd command-line-challenges &&  wc -l README.txt
+
+## p36-b
+- 

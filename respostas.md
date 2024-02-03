@@ -34,4 +34,4 @@
 - echo -n > empty.txt
 
 ## p12-i
--
+- printf '' > empty.txt

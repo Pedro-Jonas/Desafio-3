@@ -40,4 +40,4 @@
 - cp hello.txt goodbye.txt
 
 ## p14-b
-- 
+- mv goodbye.txt hello_copy.txt

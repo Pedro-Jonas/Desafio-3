@@ -26,3 +26,6 @@
 
 ## p9-b
 - touch empty.txt
+
+## p10-b
+- 

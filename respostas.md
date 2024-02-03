@@ -35,3 +35,6 @@
 
 ## p12-i
 - printf '' > empty.txt
+
+## p13-b
+- cp hello.txt goodbye.txt

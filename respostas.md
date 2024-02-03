@@ -61,4 +61,4 @@
 - cd command-line-challenges/challenges/ && ./hello_executable
 
 ## p21-b
-- 
+- cd command-line-challenges/challenges/ && chmod 700 challenge_20  && ./challenge_20

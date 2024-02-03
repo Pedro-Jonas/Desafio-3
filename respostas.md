@@ -89,3 +89,6 @@
 
 ## p30-b
 - cd command-line-challenges/challenges/ && tail -n 25 people.csv
+
+## p31-i
+- 

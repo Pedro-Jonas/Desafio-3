@@ -55,4 +55,4 @@
 - cd command-line-challenges/challenges/ && ls -l
 
 ## p19-b
--
+- cd command-line-challenges/challenges/ && chmod 600 restricted.txt  && echo p19-b >> restricted.txt

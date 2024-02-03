@@ -88,4 +88,4 @@
 - cd command-line-challenges/challenges/ && head -n 25 people.csv
 
 ## p30-b
-- 
+- cd command-line-challenges/challenges/ && tail -n 25 people.csv

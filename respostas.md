@@ -7,4 +7,4 @@
 - cd command-line-challenges/challenges/
 
 ## p3-b
-- 
+- cd command-line-challenges/challenges/ && ls

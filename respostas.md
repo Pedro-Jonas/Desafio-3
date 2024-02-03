@@ -142,4 +142,7 @@
 - cd command-line-challenges/challenges/bunch_of_files/ && grep -lr "You found the needle in the haystack!" | xargs sed -i 's/You found the needle in the haystack!/The needle has been removed./g'
 
 ## p47-a
-- cd command-line-challenges/challenges/ && cat people.csv | tr "," "|" > people_pipe.csv  
+- cd command-line-challenges/challenges/ && cat people.csv | tr "," "|" > people_pipe.csv
+
+## p48-a
+- 

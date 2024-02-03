@@ -86,3 +86,6 @@
 
 ## p29-b
 - cd command-line-challenges/challenges/ && head -n 25 people.csv
+
+## p30-b
+- 

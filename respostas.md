@@ -119,3 +119,6 @@
 
 ## p40-a
 - cd command-line-challenges/challenges/ && sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
+
+## p41-a
+-

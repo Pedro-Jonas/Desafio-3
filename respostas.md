@@ -91,4 +91,4 @@
 - cd command-line-challenges/challenges/ && tail -n 25 people.csv
 
 ## p31-i
-- 
+- cd command-line-challenges/challenges/ && diff greeting1.txt greeting2.txt

@@ -92,3 +92,6 @@
 
 ## p31-i
 - cd command-line-challenges/challenges/ && diff greeting1.txt greeting2.txt
+
+## p32-i
+- echo Hello && sleep 5 && echo world!

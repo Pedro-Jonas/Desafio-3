@@ -22,4 +22,4 @@
 - echo Hello world
 
 ## p8-b
-- 
+- echo Hello World > hello.txt

@@ -17,3 +17,6 @@
 
 ## p6-b
 - rm -r foo
+
+## p7-b
+- echo Hello world

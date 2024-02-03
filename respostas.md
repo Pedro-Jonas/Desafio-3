@@ -145,4 +145,4 @@
 - cd command-line-challenges/challenges/ && cat people.csv | tr "," "|" > people_pipe.csv
 
 ## p48-a
-- 
+- cd command-line-challenges/challenges/ && fdupes bunch_of_files

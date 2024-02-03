@@ -10,4 +10,4 @@
 - cd command-line-challenges/challenges/ && ls
 
 ## p4-b
-- 
+- mkdir foo

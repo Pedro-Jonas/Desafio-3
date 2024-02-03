@@ -106,4 +106,4 @@
 - cd command-line-challenges &&  wc -l README.txt
 
 ## p36-b
-- 
+-  cd command-line-challenges &&  tac README.txt

@@ -19,4 +19,4 @@
 - rm -r foo
 
 ## p7-b
-- 
+- echo Hello world

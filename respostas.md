@@ -32,3 +32,6 @@
 
 ## p11-i
 - echo -n > empty.txt
+
+## p12-i
+-

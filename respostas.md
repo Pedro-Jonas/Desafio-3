@@ -134,3 +134,6 @@
 
 ## p44-i
 - cd command-line-challenges/challenges/ && ls -l | grep "^d" | wc -l
+
+## p45-i
+- cd command-line-challenges/challenges/ && find . -type f -name "*deleteme*" -exec rm -v {} \;

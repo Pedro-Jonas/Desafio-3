@@ -50,3 +50,6 @@
 
 ## p17-b
 - cd command-line-challenges/challenges/ && pwd
+
+## p18-b
+- cd command-line-challenges/challenges/ && ls -l

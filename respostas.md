@@ -103,4 +103,4 @@
 - dd if=/dev/urandom of=random bs=2028 count=1000
 
 ## p35-i
-- 
+- cd command-line-challenges &&  wc -l README.txt

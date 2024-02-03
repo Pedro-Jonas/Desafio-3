@@ -97,4 +97,4 @@
 - echo Hello && sleep 5 && echo world!
 
 ## p33-i
-- 
+- dd if=/dev/zero bs=1024 count=1024 > zeros

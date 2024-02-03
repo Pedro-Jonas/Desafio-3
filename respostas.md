@@ -128,3 +128,6 @@
 
 ## p42-a
 - cd command-line-challenges/challenges/ && cut -d , -f 4 people.csv | sort | uniq -c | grep Josiah
+
+## p43-i
+- 

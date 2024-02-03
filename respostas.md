@@ -116,3 +116,6 @@
 
 ## p39-a
 -  cd command-line-challenges/challenges/ && tail +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
+
+## p40-a
+- cd command-line-challenges/challenges/ && sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l

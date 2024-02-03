@@ -115,4 +115,4 @@
 - cd command-line-challenges/challenges/ && cut -d , -f 2 people.csv | sort | uniq | wc -l 
 
 ## p39-a
-- 
+-  cd command-line-challenges/challenges/ && tail +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l

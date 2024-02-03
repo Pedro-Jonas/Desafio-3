@@ -58,4 +58,4 @@
 - cd command-line-challenges/challenges/ && chmod 600 restricted.txt  && echo p19-b >> restricted.txt
 
 ## p20-b
-- 
+- cd command-line-challenges/challenges/ && ./hello_executable

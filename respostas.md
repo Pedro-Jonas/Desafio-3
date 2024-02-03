@@ -106,7 +106,7 @@
 - cd command-line-challenges &&  wc -l README.txt
 
 ## p36-b
--  cd command-line-challenges &&  tac README.txt
+- cd command-line-challenges &&  tac README.txt
 
 ## p37-i
 - cd command-line-challenges/challenges/ && head people.csv | cut -d , -f 2
@@ -125,3 +125,6 @@
 - cd command-line-challenges/challenges/ && time sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
 
 (Executando os dois comando vemos que o segundo foi mais rápido!)
+
+## p42-a
+- 

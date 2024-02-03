@@ -41,3 +41,6 @@
 
 ## p14-b
 - mv goodbye.txt hello_copy.txt
+
+## p15-i
+- diff -s hello.txt hello_copy.txt

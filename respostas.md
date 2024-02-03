@@ -148,4 +148,5 @@
 - cd command-line-challenges/challenges/ && fdupes bunch_of_files
 
 ## p49-a
-- 
+- touch supercalifragilisticexpialidocious.txt
+- rm supercalifragilisticexpialidocious.txt

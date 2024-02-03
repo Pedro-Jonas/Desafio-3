@@ -79,4 +79,4 @@
 - nproc
 
 ## p27-b
-- 
+- uname -r

@@ -5,3 +5,6 @@
 
 ## p2-b
 - cd command-line-challenges/challenges/
+
+## p3-b
+- 

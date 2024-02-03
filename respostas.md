@@ -44,3 +44,6 @@
 
 ## p15-i
 - diff -s hello.txt hello_copy.txt
+
+## p16-b
+-

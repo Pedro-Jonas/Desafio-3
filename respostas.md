@@ -64,4 +64,4 @@
 - cd command-line-challenges/challenges/ && chmod 700 challenge_20  && ./challenge_20
 
 ## p22-b
--
+-cd command-line-challenges/challenges/ && gcc compile_me.c  && ./a.out

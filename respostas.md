@@ -115,7 +115,13 @@
 - cd command-line-challenges/challenges/ && cut -d , -f 2 people.csv | sort | uniq | wc -l 
 
 ## p39-a
--  cd command-line-challenges/challenges/ && tail +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
+- cd command-line-challenges/challenges/ && tail +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
 
 ## p40-a
 - cd command-line-challenges/challenges/ && sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
+
+## p41-a
+- cd command-line-challenges/challenges/ && time tail +2 people.csv | cut -d , -f 2 | sort | uniq | wc -l
+- cd command-line-challenges/challenges/ && time sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l
+
+(Executando os dois comando vemos que o segundo foi mais rápido!)

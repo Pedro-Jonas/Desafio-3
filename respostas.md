@@ -70,4 +70,4 @@
 - cd command-line-challenges/challenges/ && ./redirect > output.txt
 
 ## p24-b
-- 
+- date

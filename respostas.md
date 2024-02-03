@@ -98,3 +98,6 @@
 
 ## p33-i
 - dd if=/dev/zero bs=1024 count=1024 > zeros
+
+## p34
+- dd if=/dev/urandom of=random bs=2028 count=1000

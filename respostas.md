@@ -137,3 +137,6 @@
 
 ## p45-i
 - cd command-line-challenges/challenges/ && find . -type f -name "*deleteme*" -exec rm -v {} \;
+
+## p46-i
+- 
